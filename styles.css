@@ -1,0 +1,84 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+/* Header Section */
+
+#header{
+    height: 750px;
+    width: 1340px;
+}
+.head-tag{
+    text-align: center;
+    padding-top: 200px;
+    padding-left: 301px;
+    position: absolute;
+    color: #fff;
+}
+.cst{
+    height: 750px;
+    width: 1345px;
+    
+}
+
+/* Body Section */
+#body{
+    padding: 50px 0;
+}
+
+.about-me{
+    font-family: "Poppins-ExtraLight";
+    text-align: center;
+    color: black;
+}
+
+/* Education */
+.eduaction-head{
+    text-align: center; 
+}
+.education{
+padding: 50px 0;
+background-color: rgb(0, 0, 0);
+color: #fff;
+
+}
+.education-des{
+    display: inline-block;
+    padding: 30px 90px;
+}
+
+/* Skiils */
+
+.skill-head{
+    padding: 50px ;
+    text-align: center;
+}
+
+.icon-skill{
+    display: inline-block;
+    padding: 20px 170px;
+    color: rgb(2, 252, 65);
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+.skills{
+    
+}
+
+
+/* Footer Section */
+#footer{
+    padding: 50px;
+}
+
+.social-head{
+    text-align: center;
+}
+
+/* Social-Media Section */
+.social-link{
+    padding: 20px 120px;
+    color: rgb(179, 179, 179);
+
+}
